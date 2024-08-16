@@ -23,7 +23,8 @@ const ChatPage = () => {
   const [messages, setMessages] = useState([
     {
       role: "assistant",
-      content: "Hi! I'm DrugGuard. How can I help you today?",
+      content:
+        "Hi! I'm DrugGuard your intelligent assistant for ensuring safe medication use. How can I help you today?",
     },
   ]);
   const [message, setMessage] = useState("");
