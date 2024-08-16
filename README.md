@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Introducing DrugGuard, your intelligent assistant for ensuring safe medication use. DrugGuard specializes in identifying potential drug-drug interactions, offering users critical insights and peace of mind. Leveraging the latest in AI technology, DrugGuard aims to provides accurate, timely advice while maintaining a compassionate focus on your overall health and well-being. Whether you're managing multiple prescriptions, supplements, or over-the-counter drugs, DrugGuard empowers you to take control of your health with confidence. Perfect for anyone concerned about medication safety, DrugGuard is your trusted partner in health
+
 ## Getting Started
 
 First, run the development server:
