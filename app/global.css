@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #333; /* Your desired background color */
+  background-image: url("/drug-drug-interaction.jpg"); /* Correct the image path */
+  background-size: cover; /* Scale the image to cover the entire background */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  background-position: center; /* Center the image */
+  color: white; /* Text color to match the background */
+}
